@@ -50,7 +50,7 @@ a{
 	width: 100%;
 	height: 220px;
 	/* 顶部头图 */
-	background-image: url(https://xcdn.loli.top/gh/509514600/ufile@1.1.3/img/2021/09/home.jpg);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/home.jpg);
 	/* background-image: url(图片api路径); */
 	background-size: cover;
 }
@@ -140,7 +140,7 @@ a{
 	width: 100%;
 	height: 180px;
 	/* 关于本站顶部头图 */
-	background-image: url(https://xcdn.loli.top/gh/509514600/ufile@1.1.8/img/2021/10/guanyu.jpg);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/guanyu%20(1).jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -330,7 +330,7 @@ a{
 	top: 0;
 	left: 0;
 	/* 商业合作背景图片 */
-	background-image: url(../img/shangyehezuo.png);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/shangyehezuo.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: -550px;
@@ -390,7 +390,7 @@ a{
 	width: 100%;
 	height: 240px;
 	/* 站点展示顶部头图 */
-	background-image: url(https://xcdn.loli.top/gh/509514600/ufile@1.1.3/img/2021/09/zhanshi.jpg);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/zhanshi.jpg);
 	background-size: cover;
 	position: relative;
 }
