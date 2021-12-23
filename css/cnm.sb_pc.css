@@ -16,7 +16,7 @@ li{
 /* 特殊英文字体引入
 实现方式: font: 26px cnm,Arial,sans-serif; */
 @font-face {
-	font-family:cnm;src:url("../font/cnm.sb.ttf")
+	font-family:cnm;src:url("https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/font/cnm.sb.ttf")
 }
 #etext{
 	width: 100%;
@@ -389,7 +389,7 @@ li{
 	width: 100%;
 	height: 360px;
 	/* 关于站长页面顶部头图 */
-	background-image: url(https://xcdn.loli.top/gh/509514600/ufile@1.1.3/img/2021/09/guanyu.jpg);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/guanyu.jpg);
 	background-size: cover;
 	background-position: center bottom;
 	background-repeat: no-repeat;
@@ -602,7 +602,7 @@ li{
 	height: 100%;
 	background-color: #efefef;
 	/* 商业合作页面背景图片1 */
-	background-image: url(../img/shangyehezuo.png);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/shangyehezuo.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -615,7 +615,7 @@ li{
 	width: 100%;
 	height: 100%;
 	/* 商业合作页面背景图片2 */
-	background-image: url(../img/shangyehezuo.png);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/shangyehezuo.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -711,7 +711,7 @@ li{
 	width: 100%;
 	height: 420px;
 	/* 站点展示页面顶部头图 */
-	background-image: url(../img/zhandian.jpg);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/zhandian.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -734,7 +734,7 @@ li{
 	left: 0;
 	z-index: 3;
 	/* 站点展示页面顶部头图 */
-	background-image: url(../img/zhandian.jpg);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/zhandian.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -746,7 +746,7 @@ li{
 	position: absolute;
 	z-index: 5;
 	/* 站点展示页面宇航员图片 */
-	background-image: url(../img/yuhangyuan.png);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/yuhangyuan.png);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -758,7 +758,7 @@ li{
 	position: absolute;
 	z-index: 5;
 	/* 站点展示页面顶部鲸鱼图片 */
-	background-image: url(../img/jing.png);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/jing.png);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -966,7 +966,7 @@ li{
 	width: 100%;
 	height: 360px;
 	/* 本站源码页面顶部头图 */
-	background-image: url(https://xcdn.loli.top/gh/509514600/ufile@1.1.7/IMG/2021/10/Xray.jpg);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/Xray.jpg);
 	background-size: cover;
 	background-position: center bottom;
 	background-repeat: no-repeat;
@@ -1081,7 +1081,7 @@ li{
 	width: 100%;
 	height: 360px;
 	/* 静态资源页面顶部头图 */
-	background-image: url(https://xcdn.loli.top/gh/509514600/ufile@1.1.3/img/2021/09/guanyu.jpg);
+	background-image: url(https://zg1.ufile-cdn.yecvip.cn/jtcdn/nmb/img/guanyu.jpg);
 	background-size: cover;
 	background-position: center bottom;
 	background-repeat: no-repeat;
